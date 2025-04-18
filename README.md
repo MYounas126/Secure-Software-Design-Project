@@ -1,5 +1,5 @@
 # CodeSentinel: A Powerful AI-Driven Tool for Secure Code Review 
-### Secure Software Design and Engineering 
+### Secure Software Design and Engineering Semester Project
 
 CodeSentinel is a cutting-edge, AI-powered tool designed to streamline and enhance the security of your codebase. It leverages advanced artificial intelligence algorithms to perform comprehensive assessments of your code, pinpointing potential vulnerabilities and security risks. By employing CodeSentinel, you can proactively identify and address security concerns before they become exploitable weaknesses.
 
