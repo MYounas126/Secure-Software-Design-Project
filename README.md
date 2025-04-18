@@ -39,7 +39,7 @@ Getting started with CodeSentinel is a breeze. Follow these simple steps to set 
 ### 1.Clone the repository
 
 ```bash
-git clone https://github.com/MYounas126/CodeSentinel.git
+git clone https://github.com/MYounas126/Secure-Software-Design-Project
 ```
 ### 2. Create a Virtual Environment:
 It's highly recommended to create a virtual environment to isolate CodeSentinel dependencies from your system-wide Python installations. You can achieve this using the following commands:
